@@ -62,7 +62,7 @@ const apps = [
         favourite: true,
         desktop_shortcut: false,
         screen: displaySpotify, // Dolph Land 50 Playlist 😅
-    },
+    },  
     {
         id: "settings",
         title: "Settings",
